@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Space Phenomena menu.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Galaxies.unity
+    guid: 494aaf20daf85472cbbd48e7d418524b
+  - enabled: 1
+    path: Assets/Scenes/Solar System.unity
+    guid: eee262c89b055407ca7f7f00b90eb17e
+  - enabled: 1
+    path: Assets/Scenes/Nebulae.unity
+    guid: 833aa5bd592984477b752c8927a65740
+  - enabled: 1
+    path: Assets/Scenes/Black Holes.unity
+    guid: b62ae244dfdbc4c8f9888d0cad8b7d55
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
